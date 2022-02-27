@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "fresh apple",
+      "date": "2022-02-07T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 85,
+      "comment": "fresh mango",
+      "date": "2022-02-14T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Carrot",
+      "category": "Vegetables",
+      "freshness": "Secondhand",
+      "price": 300,
+      "comment": "not best carrot",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 18,
+      "comment": "fresh banana",
+      "date": "2022-07-29T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Television",
+      "category": "Electronics",
+      "freshness": "Secondhand",
+      "price": 6000,
+      "comment": "tz",
+      "date": "2022-02-04T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Beet Root",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 55,
+      "comment": "Fresh beetroot",
+      "date": "2022-06-01T18:30:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
